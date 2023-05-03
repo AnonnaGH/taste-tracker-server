@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW32j9cQO7cjyVtJ_tmqM093zkXUISjzGShSC6tzj-dYxjhCMmRyutl5YGfEHwSUGMatU&usqp=CAU",
+        "name": "Sanjeev Kapoor",
+        "experience": "30",
+        "recipes": "500",
+        "likes": "10000",
+        "viewRecipesBtn": "https://example.com/chef1-recipes",
+        "bio": "Sanjeev Kapoor is a celebrity chef and entrepreneur who has hosted several popular cooking shows on television. He is also the author of numerous cookbooks and has established a chain of restaurants across India."
+    },
+    {
+        "id": "2",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKip5ytxa415KLz7FqucavvVnlzKZJ2DmcRr4EjdIH55He7VKFhOnoZsLJeLgGf4E4eos&usqp=CAU",
+        "name": "Vikas Khanna",
+        "experience": "20",
+        "recipes": "400",
+        "likes": "15000",
+        "viewRecipesBtn": "https://example.com/chef2-recipes",
+        "bio": "Vikas Khanna is a Michelin-starred chef who has worked in some of the world's top restaurants. He is also a television personality, cookbook author, and the founder of the 'Feed India' initiative which aims to provide food to those in need."
+    },
+    {
+        "id": "3",
+        "picture": "https://www.pinkvilla.com/pics/480x270/chef-ranveer-brar_1_202209.jpg",
+        "name": "Ranveer Brar",
+        "experience": "15",
+        "recipes": "300",
+        "likes": "20000",
+        "viewRecipesBtn": "https://example.com/chef3-recipes",
+        "bio": "Ranveer Brar is a chef, television personality, and author who is known for his innovative cooking techniques and unique flavor combinations. He has hosted several cooking shows and is the author of several cookbooks."
+    },
+    {
+        "id": "4",
+        "picture": "https://rolibooks.com/wp-content/uploads/2023/01/hemant-oberoi-1.jpg",
+        "name": "Hemant Oberoi",
+        "experience": "25",
+        "recipes": "200",
+        "likes": "7000",
+        "viewRecipesBtn": "https://example.com/chef4-recipes",
+        "bio": "Tarla Dalal was a pioneering chef and cookbook author who made a significant contribution to the Indian culinary world. She authored over 100 cookbooks and was known for her simple yet delicious recipes."
+    },
+    {
+        "id": "5",
+        "picture": "https://cdn-blog.thefork.com/static/styles/xxl/public/2021-10/Atul%20Kochhur.webp?VersionId=EWDSJhEw9Ii9j8yrp7uqQ0hNyBE01H.C&itok=L9_Qy9zK",
+        "name": "Atul Kochhar",
+        "experience": "20",
+        "recipes": "150",
+        "likes": "12000",
+        "viewRecipesBtn": "https://example.com/chef5-recipes",
+        "bio": "Atul Kochhar is a Michelin-starred chef and restaurateur known for his contemporary take on Indian cuisine. He has worked in some of the world's best restaurants and is the owner of the acclaimed Benares Restaurant in London. Kochhar has won numerous awards for his culinary achievements, and he continues to innovate and inspire with his cooking."
+    },
+    {
+        "id": "6",
+        "picture": "https://starsunfolded.com/wp-content/uploads/2016/11/Zorawar-Kalra.jpg",
+        "name": "Zorawar Kalra",
+        "experience": "10",
+        "recipes": "500",
+        "likes": "10000",
+        "viewRecipesBtn": "https://example.com/chef6-recipes",
+        "bio": "Zorawar Kalra is a restaurateur and the founder of the Massive Restaurants group, which operates several successful restaurant brands across India. He is known for his innovative approach to Indian cuisine and has won several awards for his contributions to the restaurant industry."
+    }
+]
