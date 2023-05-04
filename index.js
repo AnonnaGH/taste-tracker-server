@@ -24,6 +24,17 @@ app.get('/recipe', (req, res) => {
 
 
 
+app.get('/chef/:id', (req, res) => {
+
+
+    const id = req.params.id;
+    const selectedChef = chef.find(n => n.id === id);
+    const selectedRecipe = recipe.filter(n => n.chef_id === id);
+
+
+    res.send({ selectedRecipe, selectedChef });
+})
+
 
 
 app.listen(port, () => {
